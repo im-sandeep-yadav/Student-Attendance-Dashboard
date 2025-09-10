@@ -120,9 +120,9 @@ You can upload your own CSV or use the default sample data.
 ---
 
 ## 👨‍💻 Author
-**Your Name**  
-📧 Email: your.email@example.com  
-🔗 GitHub: https://github.com/your-username
+ Name : sandeep yadav 
+ Email Id :sandeepyadav6386814254@gmail.com
+🔗 GitHub: https://github.com/im-sandeep-yadav/Student-Attendance-Dashboard
 
 ---
 
